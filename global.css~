@@ -1,0 +1,79 @@
+body {
+	font-family: arial;
+	font-size: small;
+	color: #555555;
+}
+
+header {
+	text-align: right;
+}
+
+header span {
+	margin: 5px;
+	vertical-align: middle;
+}
+
+#K {
+	border-radius: 50%;
+}
+
+main div {
+	text-align: center;
+}
+
+#logo {
+	margin-top: 150px;
+}
+
+#bar {
+	margin-top: 30px;
+}
+
+#buttons {
+	margin-top: 30px;
+}
+
+#language {
+	margin-top: 30px;
+}
+
+input {
+	width: 600px;
+	height: 10px;
+	border: 1px solid #cccccc;
+	padding: 10px;
+}
+
+button {
+	background-color: #eeeeee;
+	border: 0;
+	padding: 10px;
+	margin: 5px;
+}
+
+footer {
+	height: 40px;
+	background-color: #eeeeee;
+	display: block;
+	position: fixed;
+	bottom: 0;
+	width: 97%;
+	padding: 0 10px;
+}
+
+footer div {
+	vertical-align: middle;
+}
+
+#left {
+	float: left;
+}
+
+#right {
+	float: right;
+	text-align: right;
+}
+
+footer div span {
+	margin: 10px;
+}
